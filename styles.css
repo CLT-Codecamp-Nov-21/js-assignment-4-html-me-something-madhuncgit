@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+body {
+    background-color:beige;
+    margin:8px;
+ }
+ #mainHeading{
+     color:red;
+ }
+ 
+ .funParagraph {
+    color:green;
+ }
+
+
+
+  p {
+    margin: 25px 50px;
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+  }
+
+  div {
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+  }  
+  h1 { text-align: center }
+H2 { text-align: center }
+img{text-align:center}
+li{display: block}
+li{text-align:center}
